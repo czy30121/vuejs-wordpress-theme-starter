@@ -90,5 +90,3 @@ The first thing you're probably going to want to do is start editing and compone
 - [WordPress REST API](http://v2.wp-api.org/)
 - [WordPress REST API Handbook](https://developer.wordpress.org/rest-api/)
 - [Expose ACF fields to REST API](https://github.com/airesvsg/acf-to-rest-api/)
-
-## Features coming soon:
